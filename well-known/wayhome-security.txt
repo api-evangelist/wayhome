@@ -1,0 +1,6 @@
+Canonical: https://wayhome.co.uk/.well-known/security.txt
+Contact: mailto:security@wayhome.co.uk
+Expires: 2027-07-21T00:00:00.000Z
+Encryption: https://wayhome.co.uk/public-key.txt
+Preferred-Languages: en
+Policy: https://wayhome.co.uk/security-policy.html

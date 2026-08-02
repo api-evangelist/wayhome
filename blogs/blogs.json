@@ -1,0 +1,14 @@
+{
+  "repo": "wayhome",
+  "feeds": [
+    {
+      "source": "https://wayhome.co.uk",
+      "feed_url": "https://wayhome.co.uk",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    }
+  ],
+  "post_count": 0,
+  "fetched": "2026-08-01T15:49:00Z"
+}
