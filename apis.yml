@@ -49,7 +49,7 @@ tags:
 - Company
 - PropTech
 - Fintech
-- Real-Estate
+- Real Estate
 - Homeownership
 - Mortgage Alternative
 - Shared Ownership
@@ -63,6 +63,7 @@ tags_raw:
 - Mortgage Alternative
 - Shared Ownership
 - United Kingdom
+- Real-Estate
 apis: []
 common:
 - type: Website
